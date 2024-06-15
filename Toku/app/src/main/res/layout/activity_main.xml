@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical"
+    tools:context=".screens.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_members"
+        style="@style/home"
+        android:layout_width="match_parent"
+        android:background="@color/numbersColor"
+        android:text="@string/numbers" />
+
+    <TextView
+        android:id="@+id/tv_family"
+        style="@style/home"
+        android:layout_width="match_parent"
+        android:background="@color/familyColor"
+        android:text="@string/family" />
+
+    <TextView
+        android:id="@+id/tv_colors"
+        style="@style/home"
+        android:layout_width="match_parent"
+        android:background="@color/colorsColor"
+        android:text="@string/colors" />
+
+    <TextView
+        android:id="@+id/tv_phrases"
+        style="@style/home"
+        android:layout_width="match_parent"
+        android:background="@color/phrasesColor"
+        android:text="@string/phrases" />
+
+</LinearLayout>
