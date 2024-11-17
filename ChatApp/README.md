@@ -1,6 +1,6 @@
-# # Weather App
+#  Chat App
 
-Build a Weather app that can know the weather by city name.
+Build a Chat app to chat with other friends.
 
 <div align="start">
      <a href="https://api.visitorbadge.io/api/visitors?path=ChatterBox-AI-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
@@ -15,23 +15,22 @@ Build a Weather app that can know the weather by city name.
 
 ## 🚀 Getting Started
 
-- This weather app allows users to easily `check the current weather conditions` by simply entering a `city name`.
-- it provides essential information such as the `minimum` and `maximum` temperatures for the day, along with the overall `weather condition` (e.g., sunny, cloudy, or rainy).
-- With a user-friendly interface, `dynamic visuals` that adjust based on weather conditions, and smooth navigation, this app offers a comprehensive and visually engaging way to stay informed about the weather.
+- The app is a communication platform that allows seamless communication with `registered` friends.
+- Users can easily create an account using an `email` and `password`, taking into account `security restrictions` to protect data.
+- The app allows instant `chatting` with others `registered` in the system, ensuring that messages are delivered in `real-time` without any delay.
+- The chat app is designed to provide a seamless and `easy-to-use` communication experience with your friends `anytime`, `anywhere`.
 
 <hr>
 
 ## ✨ UI
 
-![WhatsApp Image 2024-09-16 at 14 21 41_45e65ed2](https://github.com/user-attachments/assets/42cfa0a4-eb13-4be6-b314-e9965d32cc12)
+![WhatsApp Image 2024-11-17 at 19 27 41_0cd9011f](https://github.com/user-attachments/assets/4bb491b4-03bf-48cd-8a48-4a724572584c)
+
 
 <hr>
 
-![WhatsApp Image 2024-09-16 at 14 21 41_fceb73d2](https://github.com/user-attachments/assets/909b66a1-842d-4b82-a5fe-ee278c138f2d)
+![WhatsApp Image 2024-11-17 at 18 42 27_d218eb65](https://github.com/user-attachments/assets/1362ad04-e6fb-4b7e-8a16-6207d32cdca9)
 
-<hr>
-
-![WhatsApp Image 2024-09-16 at 14 21 41_5d9bc46e](https://github.com/user-attachments/assets/b6ffc994-a338-440d-b940-2743e6cd7b23)
 
 <hr>
 
